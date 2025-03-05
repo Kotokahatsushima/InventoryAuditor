@@ -35,6 +35,7 @@
             AmountTextBox = new TextBox();
             ExitContainer = new Button();
             panel1 = new Panel();
+            label1 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -123,11 +124,23 @@
             panel1.Size = new Size(316, 27);
             panel1.TabIndex = 11;
             // 
+            // label1
+            // 
+            label1.FlatStyle = FlatStyle.Flat;
+            label1.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(0, 27);
+            label1.Name = "label1";
+            label1.Size = new Size(316, 25);
+            label1.TabIndex = 12;
+            label1.Text = "Add Item";
+            label1.TextAlign = ContentAlignment.MiddleCenter;
+            // 
             // AddControl
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
+            Controls.Add(label1);
             Controls.Add(ExitContainer);
             Controls.Add(AmountLabel);
             Controls.Add(AmountTextBox);
@@ -149,5 +162,6 @@
         private TextBox AmountTextBox;
         private Button ExitContainer;
         private Panel panel1;
+        private Label label1;
     }
 }

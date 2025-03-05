@@ -14,21 +14,29 @@ namespace InventoryAuditor
             Instance = this;  // Assign instance
             InitializeComponent();
             inventoryControl1.Hide();
+            homeControl1.Show();
         }
-        
+
         private void InventoryButton_Click(object sender, EventArgs e)
         {
             TitleActive.Text = "Inventory";
             inventoryControl1.Show();
+            homeControl1.Hide();
         }
 
         private void HomeButton_Click(object sender, EventArgs e)
         {
             TitleActive.Text = "Home";
             inventoryControl1.Hide();
+            homeControl1.Show();
         }
 
         private void inventoryControl1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void titleBarControl1_Load(object sender, EventArgs e)
         {
 
         }

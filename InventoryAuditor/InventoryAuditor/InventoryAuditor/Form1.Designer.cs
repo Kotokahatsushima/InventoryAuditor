@@ -36,6 +36,7 @@
             panel3 = new Panel();
             inventoryControl1 = new InventoryAuditor.UserControls.InventoryControl();
             titleBarControl1 = new InventoryAuditor.UserControls.TitleBarControl();
+            homeControl1 = new InventoryAuditor.UserControls.HomeControl();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             panel3.SuspendLayout();
@@ -106,6 +107,7 @@
             // 
             // panel3
             // 
+            panel3.Controls.Add(homeControl1);
             panel3.Controls.Add(inventoryControl1);
             panel3.Location = new Point(188, 75);
             panel3.Margin = new Padding(0);
@@ -130,6 +132,14 @@
             titleBarControl1.Name = "titleBarControl1";
             titleBarControl1.Size = new Size(1082, 32);
             titleBarControl1.TabIndex = 3;
+            titleBarControl1.Load += titleBarControl1_Load;
+            // 
+            // homeControl1
+            // 
+            homeControl1.Location = new Point(0, 0);
+            homeControl1.Name = "homeControl1";
+            homeControl1.Size = new Size(894, 446);
+            homeControl1.TabIndex = 1;
             // 
             // Form1
             // 
@@ -163,5 +173,6 @@
         private Panel panel3;
         private UserControls.TitleBarControl titleBarControl1;
         public UserControls.InventoryControl inventoryControl1;
+        private UserControls.HomeControl homeControl1;
     }
 }

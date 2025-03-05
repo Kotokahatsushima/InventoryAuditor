@@ -19,7 +19,10 @@ namespace InventoryAuditor.UserControls
             listView1.HideSelection = false; // Ensure items remain highlighted
             listView1.View = View.Details;
             addControl1.Hide();
+
+            //Example Item
             AddItem("Item 1", "5");
+            //This will be fetched by other forms
             inventoryControl = this;
         }
 

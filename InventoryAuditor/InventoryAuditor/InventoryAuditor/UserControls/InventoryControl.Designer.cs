@@ -129,7 +129,7 @@
             addControl1.BackColor = Color.White;
             addControl1.Location = new Point(264, 162);
             addControl1.Name = "addControl1";
-            addControl1.Size = new Size(310, 214);
+            addControl1.Size = new Size(316, 220);
             addControl1.TabIndex = 6;
             addControl1.Load += addControl1_Load;
             // 
