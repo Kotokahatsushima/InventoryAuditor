@@ -38,6 +38,7 @@ namespace InventoryAuditor.UserControls
                 ProductTextBox.Text = "";
                 AmountTextBox.Text = "";
                 AmountLabel.Text = "Amount";
+                inventoryControl.CheckItemState();
             }
 
 
@@ -50,6 +51,11 @@ namespace InventoryAuditor.UserControls
         }
 
         private void ProductName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AmountTextBox_TextChanged(object sender, EventArgs e)
         {
 
         }

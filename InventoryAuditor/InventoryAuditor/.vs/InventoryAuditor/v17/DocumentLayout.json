@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\addcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\usercontrols\\inventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\inventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\usercontrols\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\inventoryauditor\\usercontrols\\inventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\inventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -23,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\inventoryauditor\\usercontrols\\titlebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\titlebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\usercontrols\\inventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\inventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\usercontrols\\inventorycontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\inventorycontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\usercontrols\\inventorycontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|solutionrelative:inventoryauditor\\usercontrols\\inventorycontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA6A4877-01CE-4680-AA2A-F325494F2A52}|InventoryAuditor\\InventoryAuditor.csproj|c:\\users\\kaise\\source\\repos\\inventoryauditor\\inventoryauditor\\inventoryauditor\\usercontrols\\addcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HomeControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\HomeControl.cs",
               "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\HomeControl.cs",
@@ -66,11 +66,12 @@
               "RelativeToolTip": "InventoryAuditor\\UserControls\\HomeControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T18:35:03.971Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\Form1.cs",
               "RelativeDocumentMoniker": "InventoryAuditor\\Form1.cs",
@@ -82,39 +83,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeControl.cs",
+              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\HomeControl.cs",
+              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\HomeControl.cs",
+              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\HomeControl.cs",
+              "RelativeToolTip": "InventoryAuditor\\UserControls\\HomeControl.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:17:35.91Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.cs",
+              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\AddControl.cs",
+              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.cs [Design]",
+              "RelativeToolTip": "InventoryAuditor\\UserControls\\AddControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:25:38.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddControl.cs",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.cs",
               "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\AddControl.cs",
               "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.cs",
               "RelativeToolTip": "InventoryAuditor\\UserControls\\AddControl.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:17:31.098Z",
+              "WhenOpened": "2025-03-06T11:25:41.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "InventoryControl.cs",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.cs",
               "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\InventoryControl.cs",
               "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.cs",
               "RelativeToolTip": "InventoryAuditor\\UserControls\\InventoryControl.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:29:59.906Z"
+              "WhenOpened": "2025-03-03T16:29:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.cs",
+              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\InventoryControl.cs",
+              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.cs [Design]",
+              "RelativeToolTip": "InventoryAuditor\\UserControls\\InventoryControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:51:28.748Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "InventoryControl.resx",
-              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.resx",
-              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\InventoryControl.resx",
-              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.resx",
-              "RelativeToolTip": "InventoryAuditor\\UserControls\\InventoryControl.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-03T16:29:42.082Z"
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\Form1.cs",
+              "RelativeDocumentMoniker": "InventoryAuditor\\Form1.cs",
+              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\Form1.cs",
+              "RelativeToolTip": "InventoryAuditor\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:11:23.343Z"
             },
             {
               "$type": "Document",
@@ -125,7 +166,8 @@
               "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.resx",
               "RelativeToolTip": "InventoryAuditor\\UserControls\\AddControl.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-03T16:29:41.31Z"
+              "WhenOpened": "2025-03-03T16:29:41.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,49 +179,12 @@
               "RelativeToolTip": "InventoryAuditor\\UserControls\\AddControl.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:29:41.053Z"
+              "WhenOpened": "2025-03-03T16:29:41.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "InventoryControl.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.Designer.cs",
-              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\InventoryControl.Designer.cs",
-              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.Designer.cs",
-              "RelativeToolTip": "InventoryAuditor\\UserControls\\InventoryControl.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwCMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:49:46.02Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.cs",
-              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\AddControl.cs",
-              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\AddControl.cs [Design]",
-              "RelativeToolTip": "InventoryAuditor\\UserControls\\AddControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:38:41.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventoryControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.cs",
-              "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\InventoryControl.cs",
-              "ToolTip": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\InventoryControl.cs [Design]",
-              "RelativeToolTip": "InventoryAuditor\\UserControls\\InventoryControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:55:44.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "TitleBarControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\InventoryAuditor\\InventoryAuditor\\InventoryAuditor\\UserControls\\TitleBarControl.cs",
               "RelativeDocumentMoniker": "InventoryAuditor\\UserControls\\TitleBarControl.cs",

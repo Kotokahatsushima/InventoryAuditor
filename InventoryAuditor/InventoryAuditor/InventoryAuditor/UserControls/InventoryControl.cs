@@ -20,15 +20,15 @@ namespace InventoryAuditor.UserControls
             listView1.View = View.Details;
             addControl1.Hide();
 
-            //Example Item
-            AddItem("Item 1", "5");
             //This will be fetched by other forms
             inventoryControl = this;
+            listView2 = this.listView1;
         }
 
 
         ListViewItem item = new ListViewItem();
         internal static InventoryControl inventoryControl;
+        internal static ListView listView2;
 
         public void AddItem(string name, string amount)
         {
@@ -38,6 +38,22 @@ namespace InventoryAuditor.UserControls
             listView1.Items.Add(item);
         }
 
+        //Checks if Understocked, stocked properly or Adequately stocked 
+        public void CheckItemState()
+        {
+            if (int.TryParse(item.SubItems[2].Text, out int quantity) && quantity >= 20)
+            {
+                item.BackColor = Color.FromArgb(75, 97, 209);
+            }
+            else if (quantity < 20 && quantity >= 10)
+            {
+                item.BackColor = Color.FromArgb(96, 209, 75);
+            }
+            else
+            {
+                item.BackColor = Color.FromArgb(209, 75, 75);
+            }
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             addControl1.Show();

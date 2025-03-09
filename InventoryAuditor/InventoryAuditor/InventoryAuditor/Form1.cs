@@ -15,6 +15,7 @@ namespace InventoryAuditor
             InitializeComponent();
             inventoryControl1.Hide();
             homeControl1.Show();
+            homeControl1.stockedvalues_count();
         }
 
         private void InventoryButton_Click(object sender, EventArgs e)
@@ -29,6 +30,7 @@ namespace InventoryAuditor
             TitleActive.Text = "Home";
             inventoryControl1.Hide();
             homeControl1.Show();
+            homeControl1.stockedvalues_count();
         }
 
         private void inventoryControl1_Load(object sender, EventArgs e)

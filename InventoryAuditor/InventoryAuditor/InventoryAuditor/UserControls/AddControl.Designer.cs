@@ -100,6 +100,7 @@
             AmountTextBox.Size = new Size(316, 21);
             AmountTextBox.TabIndex = 8;
             AmountTextBox.TextAlign = HorizontalAlignment.Center;
+            AmountTextBox.TextChanged += AmountTextBox_TextChanged;
             // 
             // ExitContainer
             // 
@@ -128,7 +129,7 @@
             // 
             label1.FlatStyle = FlatStyle.Flat;
             label1.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(0, 27);
+            label1.Location = new Point(0, 34);
             label1.Name = "label1";
             label1.Size = new Size(316, 25);
             label1.TabIndex = 12;

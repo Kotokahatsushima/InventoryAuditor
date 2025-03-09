@@ -55,8 +55,9 @@
             // 
             listView1.BackColor = Color.SeaShell;
             listView1.Columns.AddRange(new ColumnHeader[] { nullColumn, ProductColumn, AmountColumn });
+            listView1.Font = new Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            listView1.ForeColor = Color.White;
             listView1.FullRowSelect = true;
-            listView1.GridLines = true;
             listView1.Location = new Point(26, 77);
             listView1.Name = "listView1";
             listView1.Size = new Size(846, 351);
