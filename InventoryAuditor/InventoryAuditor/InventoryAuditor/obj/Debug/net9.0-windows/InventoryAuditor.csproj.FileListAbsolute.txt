@@ -19,3 +19,4 @@ C:\Users\kaise\source\repos\InventoryAuditor\InventoryAuditor\InventoryAuditor\o
 C:\Users\kaise\source\repos\InventoryAuditor\InventoryAuditor\InventoryAuditor\obj\Debug\net9.0-windows\InventoryAuditor.UserControls.AddControl.resources
 C:\Users\kaise\source\repos\InventoryAuditor\InventoryAuditor\InventoryAuditor\obj\Debug\net9.0-windows\InventoryAuditor.UserControls.HomeControl.resources
 C:\Users\kaise\source\repos\InventoryAuditor\InventoryAuditor\InventoryAuditor\obj\Debug\net9.0-windows\InventoryAuditor.Properties.Resources.resources
+C:\Users\kaise\source\repos\InventoryAuditor\InventoryAuditor\InventoryAuditor\obj\Debug\net9.0-windows\InventoryAuditor.UserControls.EditControl.resources

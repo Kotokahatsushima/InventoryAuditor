@@ -7,6 +7,9 @@
     <Compile Update="UserControls\AddControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="UserControls\EditControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UserControls\HomeControl.cs">
       <SubType>UserControl</SubType>
     </Compile>

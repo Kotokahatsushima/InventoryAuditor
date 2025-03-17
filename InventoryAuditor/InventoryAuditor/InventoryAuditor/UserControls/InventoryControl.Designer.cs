@@ -37,6 +37,8 @@
             button1 = new Button();
             button2 = new Button();
             addControl1 = new AddControl();
+            SaveButton = new Button();
+            editControl1 = new EditControl();
             SuspendLayout();
             // 
             // Title
@@ -94,6 +96,7 @@
             EditButton.TabIndex = 3;
             EditButton.Text = "Edit";
             EditButton.UseVisualStyleBackColor = false;
+            EditButton.Click += EditButton_Click;
             // 
             // button1
             // 
@@ -134,11 +137,35 @@
             addControl1.TabIndex = 6;
             addControl1.Load += addControl1_Load;
             // 
+            // SaveButton
+            // 
+            SaveButton.BackColor = Color.FromArgb(209, 191, 75);
+            SaveButton.FlatAppearance.BorderSize = 0;
+            SaveButton.FlatStyle = FlatStyle.Flat;
+            SaveButton.Font = new Font("Tahoma", 9F, FontStyle.Bold);
+            SaveButton.ForeColor = Color.White;
+            SaveButton.Location = new Point(459, 30);
+            SaveButton.Name = "SaveButton";
+            SaveButton.Size = new Size(94, 41);
+            SaveButton.TabIndex = 7;
+            SaveButton.Text = "Save";
+            SaveButton.UseVisualStyleBackColor = false;
+            SaveButton.Click += SaveButton_Click;
+            // 
+            // editControl1
+            // 
+            editControl1.Location = new Point(264, 162);
+            editControl1.Name = "editControl1";
+            editControl1.Size = new Size(316, 220);
+            editControl1.TabIndex = 8;
+            // 
             // InventoryControl
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
+            Controls.Add(editControl1);
+            Controls.Add(SaveButton);
             Controls.Add(addControl1);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -161,5 +188,7 @@
         private Button button1;
         private Button button2;
         private AddControl addControl1;
+        private Button SaveButton;
+        private EditControl editControl1;
     }
 }
